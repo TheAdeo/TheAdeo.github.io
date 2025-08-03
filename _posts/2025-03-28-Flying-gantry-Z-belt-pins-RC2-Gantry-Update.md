@@ -17,6 +17,6 @@ I'm gravitating towards the former because the sheet metal gantry BOM is already
 
 > Members Area post from January 27, 2025.
 
-![Preview 1](../assets/media/27_01_2025_2.png)
-![Preview 2](../assets/media/27_01_2025_3.png)
-![Preview irl](../assets/media/27_01_2025_1.jpg)
+![Preview 1](assets/media/27_01_2025_2.png)
+![Preview 2](assets/media/27_01_2025_3.png)
+![Preview irl](assets/media/27_01_2025_1.jpg)

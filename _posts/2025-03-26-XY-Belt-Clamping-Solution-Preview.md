@@ -22,4 +22,4 @@ I'm considering making a standalone version of this available to help with toolh
 
 > Members Area post from January 26, 2025.
 
-![Belt clamp preview](../assets\media\belt_clamp_preview.PNG)
+![Belt clamp preview](assets/media/belt_clamp_preview.PNG)

@@ -15,6 +15,6 @@ https://github.com/CloakedWayne/MISC/tree/main/Monolith_SLM_belt_clamps
 
 > Members Area post from January 29, 2025.
 
-![Hands on](../assets/media/hands_on.jpg)
-![Type 1](../assets/media/type_1.png)
-![Type 2](../assets/media/type_2.png)
+![Hands on](assets/media/hands_on.jpg)
+![Type 1](assets/media/type_1.png)
+![Type 2](assets/media/type_2.png)
